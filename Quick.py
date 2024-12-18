@@ -36,5 +36,5 @@ if __name__=='__main__':
     print(A)
     
     mstime = time*1000
-    print(f'จำนวนครั้งการทำ Sort = {op}')
+    # print(f'จำนวนครั้งการทำ Sort = {op}')
     print(f'เวลาการทำงาน {time:.10f} วินาที หรือ {mstime:.5f} มิลลิวินาที')
